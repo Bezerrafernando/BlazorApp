@@ -1,4 +1,5 @@
 #Criar um aplicativo Web com o Blazor
+<img src="/assetsimg/arquivo.gif">
 
 ##Introdução
 
